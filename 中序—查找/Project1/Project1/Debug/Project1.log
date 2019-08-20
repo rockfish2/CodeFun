@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\sen\desktop\刷题\中序—查找\project1\project1\源.cpp(25): warning C4091: “typedef ”: 没有声明变量时忽略“TreeNode”的左侧
+c:\users\sen\desktop\刷题\中序—查找\project1\project1\源.cpp(67): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\sen\Desktop\刷题\中序—查找\Project1\Debug\Project1.exe

@@ -1,0 +1,33 @@
+﻿  源.cpp
+c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(18): error C3867: “std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::top”: 非标准语法；请使用 "&" 来创建指向成员的指针
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(18): error C2568: “>”: 无法解析函数重载
+  c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(18): note: 可能是“const int &std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::top(void) const”
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(18): note: 或    “int &std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::top(void)”
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(24): error C3867: “std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::pop”: 非标准语法；请使用 "&" 来创建指向成员的指针
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(29): error C3867: “std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::size”: 非标准语法；请使用 "&" 来创建指向成员的指针
+          with
+          [
+              _Ty=int
+          ]
+c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(29): error C2440: “return”: 无法从“unsigned int (__thiscall std::stack<int,std::deque<_Ty,std::allocator<_Ty>>>::* )(void) const”转换为“int”
+          with
+          [
+              _Ty=int
+          ]
+  c:\users\sen\desktop\刷题\sum_nxn_min\project1\project2\源.cpp(29): note: 没有使该转换得以执行的上下文

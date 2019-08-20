@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\sen\desktop\刷题\stackmin\project1\project1\源.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sen\desktop\刷题\stackmin\project1\project1\源.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+  Project1.vcxproj -> C:\Users\sen\Desktop\刷题\StackMin\Project1\Debug\Project1.exe

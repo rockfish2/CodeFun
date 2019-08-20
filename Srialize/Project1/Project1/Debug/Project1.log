@@ -1,0 +1,10 @@
+﻿  源.cpp
+c:\users\sen\desktop\刷题\srialize\project1\project1\源.cpp(45): warning C4305: “参数”: 从“int”到“const _Elem”截断
+          with
+          [
+              _Elem=char
+          ]
+c:\users\sen\desktop\刷题\srialize\project1\project1\源.cpp(45): warning C4309: “参数”: 截断常量值
+c:\users\sen\desktop\刷题\srialize\project1\project1\源.cpp(51): error C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: 参见“strdup”的声明
+c:\users\sen\desktop\刷题\srialize\project1\project1\源.cpp(31): warning C4101: “test”: 未引用的局部变量

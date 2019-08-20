@@ -1,0 +1,4 @@
+﻿  源.cpp
+c:\users\sen\desktop\刷题\permutation\project1\project1\源.cpp(38): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\sen\desktop\刷题\permutation\project1\project1\源.cpp(59): warning C4101: “s”: 未引用的局部变量
+  Project1.vcxproj -> C:\Users\sen\Desktop\刷题\Permutation\Project1\Debug\Project1.exe
